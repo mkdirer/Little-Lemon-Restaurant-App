@@ -1,4 +1,4 @@
-# **Little Lemon Restaurant App**
+# **Little Lemon Restaurant App** 
 
 The **Little Lemon Restaurant App** represents the final achievement of the iOS App Capstone, a crucial part of the Meta iOS Developer Professional Certificate program. This application streamlines the process of ordering food, making it effortless for users to browse the menu of the Little Lemon restaurant and easily place their orders.
 
