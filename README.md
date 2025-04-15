@@ -19,8 +19,3 @@ The Home screen design is based on the following wireframe:
 
 ## **Sneak Peek**
 ![Navigation](ScreenShots/navigation.gif)
-
-
-
-
-
